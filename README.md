@@ -1,7 +1,7 @@
 # 💫 About Me :
 Hi 👋, I'm Nguyen Phuong Nam, a Software Engineer 👨‍💻 working in Vietnam 🇻🇳
 
-🔭 I am passionate about web development, new technologies and learning things related to software development 🤖
+🔭 I am passionate about web development, learning new technologies and things related to software development 🤖
 
 🌱 I'm currently learning NextJS and React 18 | new MongoDB (v6) features
 
