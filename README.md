@@ -1,5 +1,5 @@
 # 💫 About Me :
-Hi 👋, I'm Nguyen Phuong Nam, a Software Engineer 👨‍💻 working in Vietnam 🇻🇳
+Hi 👋, I'm Nguyen Phuong Nam, a Software Engineer 👨‍💻
 
 🔭 I am passionate about web development, learning new technologies and things related to software development 🤖
 
