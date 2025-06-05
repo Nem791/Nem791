@@ -1,9 +1,12 @@
 # 💫 About Me :
 Hi 👋, I'm Nguyen Phuong Nam, a Software Engineer 👨‍💻
 
-🔭 I am passionate about web development, learning new technologies and things related to software development 🤖
+🔭 I am passionate about web development, learning new technologies, and things related to software development 🤖
 
-🌱 I'm currently learning NextJS and React 18 | new MongoDB (v6) features
+🌱 I'm currently learning Spring Boot & Next.js
+
+💻 Current projects (Ongoing):
+
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phuong-nam-nguyen-91350b154/)
