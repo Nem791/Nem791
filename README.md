@@ -5,12 +5,20 @@ Hi 👋, I'm Nguyen Phuong Nam, a Software Engineer 👨‍💻
 
 🌱 I'm currently learning Spring Boot & Next.js
 
-## 💻 Current projects (Ongoing):
+## 💻 Current projects (Ongoing commits daily):
+- ⚙️ Building a backend RESTful API for a reservation system  
+  - *Freelance project – Family-owned restaurant website*
+- ⚙️ Building a frontend Admin page for a restaurant  
+  - *Freelance project – Admin dashboard for restaurant staff*
+- 🏥 Developing a healthcare recommendation app  
+  - *Client project – Providence Health Care (BC)*
+- 🌐 Working on my portfolio website with analytics tracking  
+  - *Personal project – Showcasing work with environment-based tools*
 
-- 🎮 Developing a 3D Zombie FPS game using Unreal Engine 5 as part of my Master's coursework.
-- 🏰 Co-creating a 2D Tower Defense game in Unity with a focus on team-based development and gameplay balance.
-- ⚙️ Building a backend RESTful API for a reservation system, scalable across multiple resources using a custom data provider.
-- 🌐 Working on a personal portfolio website with environment-based analytics tracking (Segment integration).
+- 
+## 💻 Past projects:
+- 🎮 A 3D Zombie FPS game using Unreal Engine 5 as part of my Master's coursework.
+- 🏰 Co-developing a 2D Tower Defense game in Unity with a focus on gameplay balance.
 
 
 ## 🌐 Socials
