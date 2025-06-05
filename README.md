@@ -5,7 +5,12 @@ Hi 👋, I'm Nguyen Phuong Nam, a Software Engineer 👨‍💻
 
 🌱 I'm currently learning Spring Boot & Next.js
 
-💻 Current projects (Ongoing):
+## 💻 Current projects (Ongoing):
+
+- 🎮 Developing a 3D Zombie FPS game using Unreal Engine 5 as part of my Master's coursework.
+- 🏰 Co-creating a 2D Tower Defense game in Unity with a focus on team-based development and gameplay balance.
+- ⚙️ Building a backend RESTful API for a reservation system, scalable across multiple resources using a custom data provider.
+- 🌐 Working on a personal portfolio website with environment-based analytics tracking (Segment integration).
 
 
 ## 🌐 Socials
