@@ -5,6 +5,7 @@ Hi 👋, I'm Jonathan Nguyen, a Software Engineer 👨‍💻
 
 🌱 I'm currently learning Spring Boot & Next.js
 
+
 > 🔒 **Note:** Some projects are company-owned & in private repositories, so I link them to my portfolio instead.
 ## 💻 Current projects (Ongoing commits daily/weekly ⏳):
 - **[kim_nguu_be (Freelance project) 🔗](https://github.com/Nem791/kim_nguu_be)**: Building a reservation system for Kim Nguu - a Vietnamese restaurant's website
