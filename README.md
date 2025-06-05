@@ -1,12 +1,13 @@
 # 💫 About Me :
 Hi 👋, I'm Jonathan Nguyen, a Software Engineer 👨‍💻
 
-🔭 I am passionate about web & game development, learning new technologies, and things related to software development 🤖
+🔭 I am passionate about web & game development, learning new technologies, and things related to software & game development 🤖
 
 🌱 I'm currently learning Spring Boot & Next.js
 
+> 🔒 **Note:** Some projects are company-owned & in private repositories, so I link them to my portfolio instead.
 ## 💻 Current projects (Ongoing commits daily/weekly):
-- **[Backend RESTful API – Freelance project](https://example.com/backend-api)**: Building a reservation system for a family-owned restaurant's website
+- **[kim_nguu_be (Freelance project)](https://example.com/backend-api)**: Building a reservation system for a family-owned restaurant's website
 - **[Admin Dashboard – Freelance project](https://example.com/admin-dashboard)**: Building a frontend admin page for a family-owned restaurant
 - **[Healthcare Recommendation App – Client project](https://example.com/healthcare-app)**: Developing an app for BC's Providence Health Care
 - **[Portfolio Website – Personal project](https://yourportfolio.com)**: Working on my portfolio site with environment-based analytics tracking (Segment integration)
