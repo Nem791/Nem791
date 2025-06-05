@@ -1,20 +1,19 @@
 # 💫 About Me :
 Hi 👋, I'm Nguyen Phuong Nam, a Software Engineer 👨‍💻
 
-🔭 I am passionate about web development, learning new technologies, and things related to software development 🤖
+🔭 I am passionate about web & game development, learning new technologies, and things related to software development 🤖
 
 🌱 I'm currently learning Spring Boot & Next.js
 
-## 💻 Current projects (Ongoing commits daily):
-- ⚙️ Building a backend RESTful API for a reservation system of a family-owned restaurant's website (**Freelance project**)
-- ⚙️ Building a frontend Admin page for a family-owned restaurant (**Freelance project**)
-- 🏥 Developing a healthcare recommendation app for BC's Providence Health Care (**Client project**)
-- 🌐 Working on my portfolio website with environment-based analytics tracking (Segment integration) (**Personal project**)
-
+## 💻 Current projects (Ongoing commits daily/weekly):
+- **kim_nguu_be(Freelance project)**: Building a reservation system for Kim Nguu Vietnamese restaurant's website
+- **kim_nguu_admin(Freelance project)**: Building a frontend admin page for Kim Nguu Vietnamese restaurant
+- **Healthcare Recommendation App BE(Client + Academic project)**: Developing the backend of an app for BC's Providence Health Care
+- **Portfolio Website(Personal project)**: Working on my portfolio site with environment-based analytics tracking (Segment integration)
 
 ## 💻 Past projects:
 - 🎮 A 3D Zombie FPS game using Unreal Engine 5 as part of my Master's coursework.
-- 🏰 Co-developing a 2D Tower Defense game in Unity with a focus on gameplay balance.
+- 🏰 Co-developing Fast Fashion - a 2D Tower Defense game in Unity with a focus on fashion & gameplay balance.
 
 
 ## 🌐 Socials
