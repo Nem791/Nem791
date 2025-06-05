@@ -6,12 +6,11 @@ Hi 👋, I'm Jonathan Nguyen, a Software Engineer 👨‍💻
 🌱 I'm currently learning Spring Boot & Next.js
 
 > 🔒 **Note:** Some projects are company-owned & in private repositories, so I link them to my portfolio instead.
-## 💻 Current projects (Ongoing commits daily/weekly):
-- **[kim_nguu_be (Freelance project) 🔗](https://example.com/backend-api)**: Building a reservation system for a family-owned restaurant's website
-- **[Admin Dashboard – Freelance project 🔗](https://example.com/admin-dashboard)**: Building a frontend admin page for a family-owned restaurant
-- **[Healthcare Recommendation App – Client project 🔗](https://example.com/healthcare-app)**: Developing an app for BC's Providence Health Care
-- **[Portfolio Website – Personal project 🔗](https://yourportfolio.com)**: Working on my portfolio site with environment-based analytics tracking (Segment integration)
-
+## 💻 Current projects (Ongoing commits daily/weekly ⏳):
+- **[kim_nguu_be (Freelance project) 🔗](https://github.com/Nem791/kim_nguu_be)**: Building a reservation system for Kim Nguu - a Vietnamese restaurant's website
+- **[kim_nguu_admin (Freelance project) 🔗](https://github.com/Nem791/kim_nguu_admin)**: Building a frontend admin page for Kim Nguu - a Vietnamese restaurant's website
+- **[Healthcare Recommendation App (Client + Academic project) 🔗](https://example.com/healthcare-app)**: Developing an app for BC's Providence Health Care
+- **[Portfolio Website (Personal project) 🔗](https://github.com/Nem791/Portfolio)**: Working on my portfolio site with environment-based analytics tracking (Segment integration)
 
 
 ## 💻 Past projects:
