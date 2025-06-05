@@ -1,5 +1,5 @@
 # 💫 About Me :
-Hi 👋, I'm Nguyen Phuong Nam, a Software Engineer 👨‍💻
+Hi 👋, I'm Jonathan Nguyen, a Software Engineer 👨‍💻
 
 🔭 I am passionate about web & game development, learning new technologies, and things related to software development 🤖
 
