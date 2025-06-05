@@ -17,8 +17,7 @@ Hi 👋, I'm Nguyen Phuong Nam, a Software Engineer 👨‍💻
 
 
 ## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nam-nguyen-91350b154/)
-<a href="https://www.linkedin.com/in/your-username/" target="_blank">
+<a href="https://www.linkedin.com/in/nam-nguyen-91350b154/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
