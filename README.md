@@ -7,10 +7,11 @@ Hi 👋, I'm Jonathan Nguyen, a Software Engineer 👨‍💻
 
 > 🔒 **Note:** Some projects are company-owned & in private repositories, so I link them to my portfolio instead.
 ## 💻 Current projects (Ongoing commits daily/weekly):
-- **[kim_nguu_be (Freelance project)](https://example.com/backend-api)**: Building a reservation system for a family-owned restaurant's website
-- **[Admin Dashboard – Freelance project](https://example.com/admin-dashboard)**: Building a frontend admin page for a family-owned restaurant
-- **[Healthcare Recommendation App – Client project](https://example.com/healthcare-app)**: Developing an app for BC's Providence Health Care
-- **[Portfolio Website – Personal project](https://yourportfolio.com)**: Working on my portfolio site with environment-based analytics tracking (Segment integration)
+- **<a href="https://example.com/backend-api" target="_blank">kim_nguu_be (Freelance project)</a>**: Building a reservation system for a family-owned restaurant's website
+- **<a href="https://example.com/admin-dashboard" target="_blank">Admin Dashboard – Freelance project</a>**: Building a frontend admin page for a family-owned restaurant
+- **<a href="https://example.com/healthcare-app" target="_blank">Healthcare Recommendation App – Client project</a>**: Developing an app for BC's Providence Health Care
+- **<a href="https://yourportfolio.com" target="_blank">Portfolio Website – Personal project</a>**: Working on my portfolio site with environment-based analytics tracking (Segment integration)
+
 
 ## 💻 Past projects:
 - **[Peliplat Universe – Client project](https://example.com/peliplat)**: Developed an interactive “Film Galaxy” visualization for Peliplat’s movie database to enhance their Library feature’s UX/UI  
