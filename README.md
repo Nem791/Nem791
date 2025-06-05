@@ -12,6 +12,14 @@ Hi 👋, I'm Jonathan Nguyen, a Software Engineer 👨‍💻
 - **Portfolio Website(Personal project)**: Working on my portfolio site with environment-based analytics tracking (Segment integration)
 
 ## 💻 Past projects:
+- **[Peliplat Universe – Client project](https://example.com/peliplat)**: Developed an interactive “Film Galaxy” visualization for Peliplat’s movie database to enhance their Library feature’s UX/UI  
+  - *(Jan–Apr 2024, CDM academic program project with 7-member team – Python, Flask, MongoDB, React, Konva.js)*
+
+- **[Synctrack® Estimated Delivery Date – Company project](https://example.com/synctrack)**: Built animated delivery timelines for Shopify stores to increase sales and reduce customer inquiries  
+  - *(XIPAT, 6-member team – Node.js, NestJS, MySQL, React, Typescript, BullMQ)*
+
+- **[Fundpop Crowdfunding – Company project](https://example.com/fundpop)**: Created a crowdfunding Shopify app to help merchants launch campaigns directly on their storefronts  
+  - *(Nelisoftwares, 7-member team – Typescript, Node.js, Express.js, MongoDB, React)*
 - 🎮 A 3D Zombie FPS game using Unreal Engine 5 as part of my Master's coursework.
 - 🏰 Co-developing Fast Fashion - a 2D Tower Defense game in Unity with a focus on fashion & gameplay balance.
 
