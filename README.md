@@ -32,7 +32,7 @@ Hi 👋, I'm Jonathan Nguyen, a Software Engineer 👨‍💻
   - Type: Academic project - Solo
   - Tech stack: Unreal Engine 5
 
-- 🎮 **[Fast Fashion TD (Academic project) 🔗](https://example.com/fast-fashion-td)**: Co-developed a 2D tower defense game focused on fashion and gameplay balance.
+- 🎮 **[Fast Fashion (Academic project) 🔗](https://example.com/fast-fashion-td)**: Co-developed a 2D tower defense game focused on fashion and gameplay balance.
   - Type: Academic project – 6-person team, 2 developers
   - Tech stack: Unity, C#
 
