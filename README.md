@@ -4,6 +4,7 @@ Hi 👋, I'm Jonathan Nguyen, a Software Engineer 👨‍💻
 🔭 I am passionate about web & game development, learning new technologies, and things related to software & game development 🤖
 
 🌱 I'm currently learning Spring Boot & Next.js
+
 ![Profile Views](https://visitor-badge.glitch.me/badge?page_id=Nem791.Nem791)
 
 
