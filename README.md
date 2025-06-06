@@ -15,20 +15,18 @@ Hi 👋, I'm Jonathan Nguyen, a Software Engineer 👨‍💻
 > 🔒 **Note:** Some projects are company-owned & in private repositories, so I link them to my portfolio instead.
 > 
 ## 💻 Past projects:
-- 🧩 **[Peliplat Universe (Client project) 🔗](https://example.com/peliplat)**: Developed an interactive “Film Galaxy” visualization for Peliplat’s movie database to enhance their Library feature’s UX/UI  
-  - *(Jan–Apr 2024, CDM academic program – 7-member team: 2 backend, 1 frontend, 3 design, 1 PM – Python, Flask, MongoDB, React, Konva.js)*
+- 🧩 **[Peliplat Universe (Client project) 🔗](https://example.com/peliplat)**: Developed an interactive “Film Galaxy” visualization to enhance the UX/UI of Peliplat’s movie Library feature. Built under CDM academic program with a 7-member team (2 backend, 1 frontend, 3 designers, 1 PM).  
+  - *Tech stack: Python, Flask, MongoDB, React, Konva.js*
+- 🧩 **[Synctrack® Estimated Delivery Date (Company project) 🔗](https://example.com/synctrack)**: Built animated delivery timelines for Shopify stores to increase sales and reduce customer inquiries. Developed at XIPAT with a 6-member team (2 backend, 2 frontend, 1 designer, 1 PO).  
+  - *Tech stack: Node.js, NestJS, MySQL, React, TypeScript, BullMQ*
+- 🧩 **[Fundpop Crowdfunding (Company project) 🔗](https://example.com/fundpop)**: Created a Shopify app enabling merchants to launch crowdfunding campaigns directly on their storefronts. Built at Nelisoftwares with a 7-member team (2 backend, 3 frontend, 2 designers).  
+  - *Tech stack: TypeScript, Node.js, Express.js, MongoDB, React*
+- 🎮 **[3D Zombie FPS (Academic project) 🔗](https://example.com/zombie-fps)**: Developed a zombie-themed first-person shooter game as a solo Master’s coursework project using Unreal Engine 5.  
+  - *Tech stack: Unreal Engine 5*
 
-- 🧩 **[Synctrack® Estimated Delivery Date (Company project) 🔗](https://example.com/synctrack)**: Built animated delivery timelines for Shopify stores to increase sales and reduce customer inquiries  
-  - *(XIPAT – 6-member team: 2 backend, 2 frontend, 1 design, 1 PO – Node.js, NestJS, MySQL, React, TypeScript, BullMQ)*
+- 🎮 **[Fast Fashion TD (Academic project) 🔗](https://example.com/fast-fashion-td)**: Co-developed a 2D tower defense game focused on fashion and gameplay balance with a 2-person team.  
+  - *Tech stack: Unity, C#*
 
-- 🧩 **[Fundpop Crowdfunding (Company project) 🔗](https://example.com/fundpop)**: Created a crowdfunding Shopify app to help merchants launch campaigns directly on their storefronts  
-  - *(Nelisoftwares – 7-member team: 2 backend, 3 frontend, 2 design – TypeScript, Node.js, Express.js, MongoDB, React)*
-
-- 🎮 **[3D Zombie FPS (Academic project) 🔗](https://example.com/zombie-fps)**: Developed a zombie-themed first-person shooter using Unreal Engine 5 as part of my Master's coursework  
-  - *(Solo project – Unreal Engine 5)*
-
-- 🎮 **[Fast Fashion TD (Academic project) 🔗](https://example.com/fast-fashion-td)**: Co-developed a 2D tower defense game in Unity focused on fashion themes and gameplay balance  
-  - *(Team of 2 – Unity, C#)*
 
 
 
