@@ -28,7 +28,7 @@ Hi 👋, I'm Jonathan Nguyen, a Software Engineer 👨‍💻
   - Type: Company project at Nelisoftwares – 7-member team (2 backend, 3 frontend, 2 designers)
   - Tech stack: TypeScript, Node.js, Express.js, MongoDB, React, Redis
 
-- 🎮 **[3D Zombie FPS (Academic project) 🔗](https://example.com/zombie-fps)**: Developed a zombie-themed FPS game in my Master’s final project.
+- 🎮 **[35 Days Later (Academic project) 🔗](https://example.com/zombie-fps)**: Developed a zombie-themed FPS game in my Master’s final project.
   - Type: Academic project - Solo
   - Tech stack: Unreal Engine 5
 
