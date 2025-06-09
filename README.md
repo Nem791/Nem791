@@ -11,7 +11,7 @@ Hi 👋, I'm Jonathan Nguyen, a Software Engineer 👨‍💻
 ## 💻 Current projects (Ongoing commits daily/weekly ⏳):
 - **[kim_nguu_be (Freelance project) 🔗](https://github.com/Nem791/kim_nguu_be)**: Building a reservation system for Kim Nguu - a Vietnamese restaurant's website
 - **[kim_nguu_admin (Freelance project) 🔗](https://github.com/Nem791/kim_nguu_admin)**: Building a frontend admin page for Kim Nguu - a Vietnamese restaurant's website
-- **[Healthcare Recommendation App (Client + Academic project) 🔗](https://example.com/healthcare-app)**: Developing an app for BC's Providence Health Care
+- **[Healthcare Recommendation App (Client + Academic project) 🔗]()**: Developing an app for BC's Providence Health Care
 - **[Portfolio Website (Personal project) 🔗](https://github.com/Nem791/Portfolio)**: Working on my portfolio site with environment-based analytics tracking (Segment integration)
 
 > 🔒 **Note:** Some projects are company-owned & in private repositories, so I link them to my portfolio instead.
@@ -30,11 +30,11 @@ Hi 👋, I'm Jonathan Nguyen, a Software Engineer 👨‍💻
   - Type: Company project at Nelisoftwares – 7-member team (2 backend, 3 frontend, 2 designers)
   - Tech stack: TypeScript, Node.js, Express.js, MongoDB, React, Redis
 
-- 🎮 **[35 Days Later (Academic project) 🔗](https://example.com/zombie-fps)**: Developed a zombie-themed FPS game in my Master’s final project.
+- 🎮 **[35 Days Later (Academic project) 🔗](https://portfolio-nem791s-projects.vercel.app/projects/35dayslater.html)**: Developed a zombie-themed FPS game in my Master’s final project.
   - Type: Academic project - Solo
   - Tech stack: Unreal Engine 5
 
-- 🎮 **[Fast Fashion (Academic project) 🔗](https://example.com/fast-fashion-td)**: Co-developed a 2D tower defense game focused on fashion and gameplay balance.
+- 🎮 **[Fast Fashion (Academic project) 🔗]()**: Co-developed a 2D tower defense game focused on fashion and gameplay balance.
   - Type: Academic project – 6-person team, 2 developers
   - Tech stack: Unity, C#
 
