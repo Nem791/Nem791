@@ -9,7 +9,7 @@ Hi 👋, I'm Jonathan Nguyen, a Software Engineer 👨‍💻
 
 
 ## 💻 Current projects (Ongoing commits daily/weekly ⏳):
-- **[Healthcare Recommendation App (Client + Academic project) 🔗]()**: Developing an app for BC's Providence Health Care
+- **[Healthcare Recommendation App (Client + Academic project) 🔗](https://github.com/Nem791/HIYH_BE.git)**: Developing an app for BC's Providence Health Care
 - **[kim_nguu_be (Freelance project) 🔗](https://github.com/Nem791/kim_nguu_be)**: Building a reservation system for Kim Nguu - a Vietnamese restaurant's website
 - **[kim_nguu_admin (Freelance project) 🔗](https://github.com/Nem791/kim_nguu_admin)**: Building a frontend admin page for Kim Nguu - a Vietnamese restaurant's website
 - **[Portfolio Website (Personal project) 🔗](https://github.com/Nem791/Portfolio)**: Working on my portfolio site with environment-based analytics tracking (Segment integration)
