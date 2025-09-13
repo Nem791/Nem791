@@ -8,7 +8,7 @@ Hi 👋, I'm Jonathan(Nam) Nguyen, a Software Engineer 👨‍💻
 ![Profile Views](https://visitor-badge.glitch.me/badge?page_id=Nem791.Nem791)
 
 
-## 💻 Latest projects (⏳):
+## 💻 Latest projects (Github links⏳):
 - **[Healthcare Recommendation App (Client + Academic project) 🔗](https://github.com/Nem791/HIYH_BE.git)**: Developing an app for BC's Providence Health Care
 - **[kim_nguu_be (Freelance project) 🔗](https://github.com/Nem791/kim_nguu_be)**: Building a reservation system for Kim Nguu - a Vietnamese restaurant's website
 - **[kim_nguu_admin (Freelance project) 🔗](https://github.com/Nem791/kim_nguu_admin)**: Building a frontend admin page for Kim Nguu - a Vietnamese restaurant's website
@@ -16,7 +16,7 @@ Hi 👋, I'm Jonathan(Nam) Nguyen, a Software Engineer 👨‍💻
 
 > 🔒 **Note:** Some projects are company-owned & in private repositories, so I link them to my portfolio instead.
 > 
-## 💻 Past projects:
+## 💻 Past projects (Portfolio links):
 
 - 🧩 **[Peliplat Universe (Client project) 🔗](https://portfolio-nem791s-projects.vercel.app/projects/peliplat.html)**: Developed an interactive “Film Galaxy” visualization to enhance the UX/UI of Peliplat’s movie Library feature.
   - Type: CDM academic program project – 7-member team (2 backend, 1 frontend, 3 designers, 1 PM)
