@@ -8,7 +8,7 @@ Hi 👋, I'm Jonathan(Nam) Nguyen, a Software Engineer 👨‍💻
 ![Profile Views](https://visitor-badge.glitch.me/badge?page_id=Nem791.Nem791)
 
 
-## 💻 Current projects (Ongoing commits daily/weekly ⏳):
+## 💻 Latest projects (⏳):
 - **[Healthcare Recommendation App (Client + Academic project) 🔗](https://github.com/Nem791/HIYH_BE.git)**: Developing an app for BC's Providence Health Care
 - **[kim_nguu_be (Freelance project) 🔗](https://github.com/Nem791/kim_nguu_be)**: Building a reservation system for Kim Nguu - a Vietnamese restaurant's website
 - **[kim_nguu_admin (Freelance project) 🔗](https://github.com/Nem791/kim_nguu_admin)**: Building a frontend admin page for Kim Nguu - a Vietnamese restaurant's website
